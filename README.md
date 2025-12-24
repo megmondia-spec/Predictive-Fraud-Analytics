@@ -64,6 +64,7 @@ ROC-AUC: Measures discriminative power across thresholds
 Confusion Matrix & F1-score: Support insights for false positives
 
 **Results**
+
 Model	Accuracy	Recall (Fraud)	ROC-AUC
 Logistic Regression	0.9585	1.00	0.9933
 Decision Tree	0.9670	1.00	0.99997
